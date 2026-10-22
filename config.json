@@ -1,0 +1,7 @@
+{
+  "sentinel_dir": "../sentinel-desktop",
+  "sentinel_scan_every_s": 300,
+  "refresh_s": 2,
+  "width": 300,
+  "top_apps": 6
+}

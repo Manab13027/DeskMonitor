@@ -1,0 +1,3 @@
+psutil>=5.9
+# macOS only: desktop-level pinning, hides the Dock icon, thermal state
+pyobjc-framework-Cocoa>=10.0; sys_platform == "darwin"
